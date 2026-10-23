@@ -17,9 +17,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files
-.env
-.env.*
-.env*
 .env*.local
 !.env.example
 
@@ -32,9 +29,9 @@ next-env.d.ts
 
 .pnpm-store/
 .history/*
-.env
 package-lock.json
 pnpm-lock.yaml
 
 # prevent documentation files from being accidentally served as static assets
 /public/**/*.md
+config.bat
