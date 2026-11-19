@@ -352,7 +352,7 @@
       "mint_title": "Confirm Mint",
       "burn_title": "Confirm Burn",
       "mint_description": "Mint ACBU by exchanging {currency} {amount}{estimate}",
-      "estimate": " (  {amount} ACBU at current rates)",
+      "estimate": " (≈ {amount} ACBU at current rates)",
       "burn_description": "Burn ACBU {amount} and withdraw to bank account",
       "amount": "Amount:",
       "cancel": "Cancel",
